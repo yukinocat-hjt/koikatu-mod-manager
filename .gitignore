@@ -1,0 +1,13 @@
+# 运行产生的本地数据
+_work/
+config.json
+__pycache__/
+*.py[cod]
+
+# 项目工作数据（本地记忆/会话数据）
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store

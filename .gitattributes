@@ -1,0 +1,2 @@
+# .bat 为 GBK + CRLF 编码，禁止 Git 做行尾转换
+*.bat -text
